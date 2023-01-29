@@ -13,4 +13,4 @@
 - at the ends of Paragraph 2 and Paragraph 3, using CSS, add the text - NEW , yellow color; by hovering over the Paragraph 10 element, its text should become italic .
 
 ### The following HTML document is provided
-[Link](https://kapsarovl.github.io/AdvencedCSS-Assignment-1/)
+[Link](https://kapsarovl.github.io/AdvancedCSS-Assignment-1/)
